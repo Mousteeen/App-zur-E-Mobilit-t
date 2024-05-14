@@ -1,3 +1,3 @@
-# App-zur-E-Mobilit-t
+# App-zur-E-Mobiliteat
 Zugang Zur Ladestationeninfrastruktur
 
